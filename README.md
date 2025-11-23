@@ -3,3 +3,6 @@ A simple and beginner-friendly Sales Metrics Dashboard project designed to explo
 
 ## Project Objective
 The objective of this project is to develop a fully interactive and visually cohesive Power BI dashboard that consolidates essential sales metrics including monthly revenue trends, total sales and profit performance, top selling products, regional profit distribution, order type insights, and year-over-year comparisons into a single analytical platform designed to enhance business transparency, support strategic decision-making, streamline reporting processes, and empower stakeholders with accurate, real-time data for improved operational and financial planning.
+
+## Dataset Used:
+- <a href = "https://github.com/An2ny07/Sales-Metric-Dashboard/blob/main/Dataset%20-%20Sales%20Metrics.xlsx"> Sales Metric Data </a>
