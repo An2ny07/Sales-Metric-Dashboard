@@ -38,6 +38,6 @@ The objective of this project is to develop a fully interactive and visually coh
 - Year-over-year comparison helps track growth, showing how current performance aligns with previous years’ trends and business goals.
 - Category performance by order type highlights product strengths across channels, helping guide operations and marketing strategies.
 
-## Final Conclusion
+## 🏁 Final Conclusion
 The Sales Metrics Dashboard provides a clear, data-driven view of the company’s performance across products, regions, and time periods. By combining KPIs, visual trends, and interactive filters, the dashboard enables stakeholders to quickly understand what drives sales, where opportunities lie, and how performance evolves over time. This tool supports more informed decision-making, improves reporting efficiency, and empowers the organization to plan future strategies with greater confidence and clarity.
 
