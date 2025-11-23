@@ -27,4 +27,5 @@ The objective of this project is to develop a fully interactive and visually coh
 <img width="1065" height="515" alt="Dataset" src="https://github.com/user-attachments/assets/c50f5860-205d-464d-b122-42a6e6c5a11f" />
 
 ## Dashboard Used: 
-- <a href = "https://github.com/An2ny07/Sales-Metric-Dashboard/blob/main/Sales%20Metrics%20Dashboard.pbix"> Sales Metric Dashboard </a>
+<img width="769" height="432" alt="Dashboard" src="https://github.com/user-attachments/assets/c46c3d5a-07db-4178-b967-929668acb517" />
+
