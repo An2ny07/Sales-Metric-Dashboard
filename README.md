@@ -15,3 +15,5 @@ The objective of this project is to develop a fully interactive and visually coh
 - Which region is performing the best?
 - Do we sell more through in-store or online orders?
 - How does this year’s sales compare to last year?
+
+-Dashboard Interaction <a href = "https://github.com/An2ny07/Sales-Metric-Dashboard/blob/main/Sales%20Metrics%20Dashboard.pbix"> View Dashboard </a>
