@@ -7,8 +7,8 @@ The objective of this project is to develop a fully interactive and visually coh
 ## Dataset Used:
 - <a href = "https://github.com/An2ny07/Sales-Metric-Dashboard/blob/main/Dataset%20-%20Sales%20Metrics.xlsx"> Sales Metric Dataset </a>
 
-## Dashboard Interaction 
-- <a href = "https://github.com/An2ny07/Sales-Metric-Dashboard/blob/main/Sales%20Metrics%20Dashboard.pbix"> View Dashboard </a>
+## Dashboard Used: 
+- <a href = "https://github.com/An2ny07/Sales-Metric-Dashboard/blob/main/Sales%20Metrics%20Dashboard.pbix"> Sales Metric Dashboard </a>
 
 ## Questions (KPIs):
 - What are our total sales, revenue, and profit?
