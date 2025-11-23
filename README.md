@@ -2,7 +2,7 @@
 A simple and beginner-friendly Sales Metrics Dashboard project designed to explore sales data, track key performance indicators, and practice data visualization skills. Built to improve understanding of sales trends, revenue performance, and customer insights using clean and organized visuals.
 
 ## Dashboard Overview:
-he Sales Metrics Dashboard highlights:
+The Sales Metrics Dashboard highlights:
 - Revenue trends by month
 - Top-performing products
 - Total sales, revenue, and profit metrics
