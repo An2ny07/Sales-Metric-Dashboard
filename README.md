@@ -6,3 +6,12 @@ The objective of this project is to develop a fully interactive and visually coh
 
 ## Dataset Used:
 - <a href = "https://github.com/An2ny07/Sales-Metric-Dashboard/blob/main/Dataset%20-%20Sales%20Metrics.xlsx"> Sales Metric Data </a>
+
+## Questions (KPIs)
+- What are our total sales, revenue, and profit?
+- How many units did we sell overall?
+- Which months had the highest and lowest revenue?
+- Which products are our top sellers?
+- Which region is performing the best?
+- Do we sell more through in-store or online orders?
+- How does this year’s sales compare to last year?
