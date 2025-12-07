@@ -43,5 +43,5 @@ The Sales Metrics Dashboard provides a clear, data-driven view of the company’
 
 ## 👤 Author
 Mark Anthony Bulda <br/>
-Data Analyst | Data Entry Specialist <br/>
+Data Entry Specialist | Data Analyst <br/>
 markanthonybulda88@gmail.com
