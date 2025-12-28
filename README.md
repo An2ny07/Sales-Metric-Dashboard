@@ -42,6 +42,7 @@ The objective of this project is to develop a fully interactive and visually coh
 The Sales Metrics Dashboard provides a clear, data-driven view of the company’s performance across products, regions, and time periods. By combining KPIs, visual trends, and interactive filters, the dashboard enables stakeholders to quickly understand what drives sales, where opportunities lie, and how performance evolves over time. This tool supports more informed decision-making, improves reporting efficiency, and empowers the organization to plan future strategies with greater confidence and clarity.
 
 ## 👤 Author
-Mark Anthony Bulda <br/>
-Data Entry Specialist | Data Analyst <br/>
-markanthonybulda88@gmail.com
+Mark Anthony Bulda <br>  
+Virtual Assistant | Data Analyst | Data Entry Specialist <br>
+📧 markanthonybulda88@gmail.com <br>
+📧 markanthony.virtualassistant@gmail.com
